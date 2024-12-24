@@ -1,7 +1,7 @@
 # 샐러드 수요량 예측 모델 개발
 
 [ 결과보고서 ]
-https://spotted-fridge-c67.notion.site/92d8463500d44870a4c557ae66e4b0fc
+[https://spotted-fridge-c67.notion.site/92d8463500d44870a4c557ae66e4b0fc](https://www.notion.so/166b575dd3b9804d84bedd46d271e3e2?pvs=4)
 
 1. 시계열 데이터 생성
   * Sliding Window 사용
